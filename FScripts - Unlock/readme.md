@@ -25,6 +25,8 @@ python escrow.py -s -k [CLÉ]
 Exemple :
 python escrow.py -s -k cfxk_1EfHkpLiDgOaPwDk6jzlH_3Fwc6K
 ```
+discord.gg/fscripts
+merci à 77% de nous avoir partagé ce tools!
 
 # **Décryptage**
 Exécutez le script de décryptage : python auto.py
