@@ -1,2 +1,2 @@
 # Unlock-Stream-Files-FiveM
-Unlocker Stream side for FiveM
+A decrypter stream files leak by fscripts, shared by 77%.
